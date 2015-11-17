@@ -1,0 +1,8 @@
+{
+  "name": "Flow+",
+  "version": "0.0.1",
+  "description": "flow+ video project",
+  "author": "Jiri Bachel <bachel.j@gmail.com>",
+  "main": "src/init.js"
+
+}
