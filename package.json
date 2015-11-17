@@ -1,8 +1,22 @@
 {
-  "name": "Flow",
+  "name": "flow",
   "version": "0.0.1",
   "description": "flow+ video project",
   "author": "Jiri Bachel <bachel.j@gmail.com>",
-  "main": "src/init.js"
-
+  "main": "src/init.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bachel/flow.git"
+  },
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bachel/flow/issues"
+  },
+  "homepage": "https://github.com/bachel/flow#readme",
+  "dependencies": {
+    "express": "^4.13.3"
+  }
 }
