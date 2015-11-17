@@ -5,7 +5,7 @@
   "author": "Jiri Bachel <bachel.j@gmail.com>",
   "main": "src/init.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "node src/init.js"
   },
   "repository": {
     "type": "git",
